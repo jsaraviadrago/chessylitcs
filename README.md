@@ -1,10 +1,7 @@
-# Rusty-Walk
+# Chessylits
 
-Este repo es un espacio de casos de uso trabajados con Rust. 
+Este es un espacio para armar desarrollos y analisis de ajedrez. 
 
-Hasta ahora he trabajado algunas cosas muy sencillas que he ido mirando en la web y también con un poco de ayuda y revisión de código. 
-
-### Casos de uso
 
 1. Juego de ajedrez que se despliega de la terminal
 2. Tablero de ajedrez inspirado en un post de medium [[1]](#1)
